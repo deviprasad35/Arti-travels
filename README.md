@@ -1,2 +1,2 @@
 # Arti-travels
-a demo page for travelling company
+a demo page for travelling company.
